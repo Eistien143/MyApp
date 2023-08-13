@@ -1,8 +1,8 @@
-/* eslint-disable prettier/prettier */
 module.exports = {
   project: {
     ios: {},
-    android: {},
+    android: {
+    },
   },
   assets: ['./src/assets'],
 };
